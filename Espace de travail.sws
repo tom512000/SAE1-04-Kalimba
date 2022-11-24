@@ -4,7 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{156E923D-2F33-4CB0-8C05-62861FF4CFD8}" Name="Kalimba" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Kalimba.mcd"/>
+		<Model Expanded="Yes" ID="{156E923D-2F33-4CB0-8C05-62861FF4CFD8}" Loaded="No" Name="Sikora_Tom_Darrozes_Guillaume_Kalimba_MCD" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Sikora_Tom_Darrozes_Guillaume_Kalimba_MCD.mcd"/>
+		<Model Expanded="Yes" ID="{156E923D-2F33-4CB0-8C05-62861FF4CFD8}" Name="Sikora_Tom_Darrozes_Guillaume_Kalimba_MCD" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Sikora_Tom_Darrozes_Guillaume_Kalimba_MCD.mcd"/>
 		<Model Expanded="Yes" ID="{BCA54477-3FE3-4934-B912-F782F93A6A5F}" Name="Sikora_Tom_Darrozes_Guillaume_Kalimba_MPD" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Sikora_Tom_Darrozes_Guillaume_Kalimba_MPD.mpd"/>
 	</Local>
 	<BrowserModule Name="Référentiel"/>
